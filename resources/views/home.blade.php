@@ -42,7 +42,7 @@
         <h2>Select User</h2>
 
         <a href="/check-user?name=Ramesh" class="btn btn-primary">Ramesh</a>
-        <a href="/check-user?name=Suresh" class="btn btn-danger">Suresh</a>
+        <a href="/check-user?name=Suresh" class="btn btn-danger">Vimal</a>
     </div>
 
 </body>
